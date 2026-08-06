@@ -33,7 +33,7 @@ Each model was tuned with `GridSearchCV` (`cv=10`, `scoring='accuracy'`) and eva
 | Model | Best CV accuracy | Test accuracy |
 | --- | --- | --- |
 | Logistic Regression | 0.818 | 0.89 |
-| SVM | — | 0.89 |
+| SVM | 0.818 | 0.89 |
 | Decision Tree | 0.88 | 0.78 |
 | **KNN** (k=7, p=1) | **0.832** | **0.94** |
 
